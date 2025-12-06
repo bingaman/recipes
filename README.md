@@ -1,2 +1,1 @@
-# recipes
-My recipes, exported from Paprika
+My recipes, missing the ones with special characters in the name. Most of the 5-star recipes here were written by J. Kenji Lopez-Alt. Buy his books!
